@@ -1,0 +1,63 @@
+# Header
+menu:
+  🏠  Home: /
+  📖  Archives: /archives
+  🏷  Tags: /tags
+  🙈  Friends: /friends
+  👴  About Me: /about
+rss: /atom.xml
+
+#Theme
+theme_color: o-apple
+loader: loadbartop
+loader_text: 海内存知己，天涯若比邻。<br>请稍候..
+search: false
+#Navbar
+nav_fixed: true
+
+# Content
+excerpt_link: 阅读全文
+excerpt_link_shape: oval
+excerpt_link_shadow: true
+fancybox: true
+# Blogger
+avatar: https://i.loli.net/2020/07/13/3ltrdaZpvzMJUXR.jpg
+introduce: 风浪没平息，我宣告奔跑的意义
+followurl: https://github.com/bochili
+avatarjumpurl: https://www.wanan.run/
+# Sidebar
+sidebar: left
+widgets:
+- blogger
+- theme
+- blog_info
+- tagcloud
+drawerwidgets:
+- blogger
+- theme
+- navlist
+
+#Baidu Search Resource Platform
+baidu_search:
+  enable: false
+  baidu_site_verification: O0eImcpYTc
+
+# widget behavior
+archive_type: 'monthly'
+show_count: false
+
+# Miscellaneous
+google_analytics:
+gauges_analytics:
+favicon: https://i.loli.net/2020/07/13/3ltrdaZpvzMJUXR.jpg
+
+#Valine
+valine:
+  enable: false
+  AppId: IOQF7YODEcwaCGUYxRXQQtUA-gzGzoHsz
+  AppKey: C1pfrlS3mX2BFU8maxcpI5zv
+  
+#Google AdSense
+AdSense:
+  enable: false
+  adclient: ca-pub-4994376664948778
