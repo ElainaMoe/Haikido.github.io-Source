@@ -8,15 +8,15 @@ menu:
 rss: /atom.xml
 
 #Theme
-theme_color: o-bilibili
+theme_color: o-apple
 loader: loadbartop
-loader_text: 海内存知己，天涯若比邻。<br>请稍候..
+loader_text: We're loading for your best experience
 search: true
 #Navbar
 nav_fixed: true
 
 # Content
-excerpt_link: 阅读全文
+excerpt_link: Read full article
 excerpt_link_shape: oval
 excerpt_link_shadow: true
 fancybox: true
