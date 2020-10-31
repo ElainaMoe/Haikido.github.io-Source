@@ -4,7 +4,7 @@
 
 # Site
 title: GamerNoTitle
-subtitle: 这是一个随便建立的小站
+subtitle: A website made by GamerNoTitle casually
 description: ''
 keywords:
 author: GamerNoTitle
@@ -111,8 +111,8 @@ deploy:
 steam:
   enable: true
   steamId: '76561198309889674' #steam 64位Id
-  title: Steam游戏库
-  quote: '今天G胖又赚了多少？'
+  title: SteamGaming~
+  quote: 'How much did Steam earn today?'
   tab: recent
   length: 1000
   imgUrl: 
@@ -128,7 +128,7 @@ aplayer:
 bangumi:
   enable: true
   vmid: 44666814
-  title: '追番列表'
+  title: 'Bangumis!!!'
   quote: 'TECH OTAKUS SAVE THE WORLD —— MiHoYo'
   show: 1
   loading: 'http://bili33.top/img/bangumi-loading.gif'
