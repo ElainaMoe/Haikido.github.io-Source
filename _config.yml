@@ -123,3 +123,12 @@ steam:
 # 音乐播放器
 aplayer:
   meting: true
+
+# 哔哩哔哩追番
+bangumi:
+  enable: true
+  vmid: 44666814
+  title: '追番列表'
+  quote: 'TECH OTAKUS SAVE THE WORLD —— MiHoYo'
+  show: 1
+  loading: 'http://bili33.top/img/bangumi-loading.gif'
