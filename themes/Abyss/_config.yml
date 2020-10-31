@@ -1,10 +1,10 @@
 # Header
 menu:
-  🏠  Home: /
-  📖  Archives: /archives
-  🏷  Tags: /tags
-  🙈  Link: /link
-  👴  About Me: /about
+  Home: /
+  Archives: /archives
+  Tags: /tags
+  Link: https://bili33.top/link
+  About Me: https://bili33.top/
 rss: /atom.xml
 
 #Theme
@@ -21,10 +21,10 @@ excerpt_link_shape: oval
 excerpt_link_shadow: true
 fancybox: true
 # Blogger
-avatar: https://i.loli.net/2020/07/13/3ltrdaZpvzMJUXR.jpg
-introduce: 风浪没平息，我宣告奔跑的意义
-followurl: https://github.com/bochili
-avatarjumpurl: https://www.wanan.run/
+avatar: https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo@1.0/AboutMe/logo-mini.png
+introduce: A senior high school student fighting for GaoKao in 2021
+followurl: https://github.com/GamerNoTitle
+avatarjumpurl: https://bili33.top
 # Sidebar
 sidebar: left
 widgets:
@@ -40,7 +40,7 @@ drawerwidgets:
 #Baidu Search Resource Platform
 baidu_search:
   enable: false
-  baidu_site_verification: O0eImcpYTc
+  baidu_site_verification: 
 
 # widget behavior
 archive_type: 'monthly'
@@ -49,15 +49,15 @@ show_count: false
 # Miscellaneous
 google_analytics:
 gauges_analytics:
-favicon: https://i.loli.net/2020/07/13/3ltrdaZpvzMJUXR.jpg
+favicon: https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo@1.0/AboutMe/logo-mini.png
 
 #Valine
 valine:
-  enable: false
-  AppId: IOQF7YODEcwaCGUYxRXQQtUA-gzGzoHsz
-  AppKey: C1pfrlS3mX2BFU8maxcpI5zv
+  enable: true
+  AppId: wRUW5fICAL8URzxXwJNSiwA7-MdYXbMMI
+  AppKey: LbtRzTQKxCWNpj30GLH3sw5j
   
 #Google AdSense
 AdSense:
-  enable: false
-  adclient: ca-pub-4994376664948778
+  enable: true
+  adclient: ca-pub-5864391143249049
