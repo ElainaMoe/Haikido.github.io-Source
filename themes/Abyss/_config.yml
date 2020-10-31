@@ -3,15 +3,15 @@ menu:
   🏠  Home: /
   📖  Archives: /archives
   🏷  Tags: /tags
-  🙈  Friends: /friends
+  🙈  Link: /link
   👴  About Me: /about
 rss: /atom.xml
 
 #Theme
-theme_color: o-apple
+theme_color: o-bilibili
 loader: loadbartop
 loader_text: 海内存知己，天涯若比邻。<br>请稍候..
-search: false
+search: true
 #Navbar
 nav_fixed: true
 
