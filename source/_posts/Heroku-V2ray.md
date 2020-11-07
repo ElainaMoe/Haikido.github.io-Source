@@ -3,7 +3,7 @@ title: 用Heroku自建V2ray作为紧急连接
 date: 2020-11-01 09:46:44
 tags: Tech
 categories: Tech
-cover: https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo-v1@master/img/Heroku-V2ray/cover.png
+banner: https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo-v1@master/img/Heroku-V2ray/cover.png
 ---
 
 ### 免责声明
